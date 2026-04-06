@@ -1,5 +1,7 @@
 # Demographic System Modeling in Vensim PLE, AnyLogic PLE, and Excel
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19165128.svg)](https://doi.org/10.5281/zenodo.19165128)
+
 This repository contains the complete materials for the paper *"Demographic System Modeling"*, including the model files, simulation results, and the final PDF.
 
 
