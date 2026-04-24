@@ -13,9 +13,6 @@ This repository contains the complete materials for the paper *"Demographic Syst
   - `Standard demographic system model.mdl`
   - `Working demographic system model.mdl`	
 
-- Excel workbook with calculations and parameter variation (`.xlsx`)
-  - `Demographic System Model.xlsx`
-
 - AnyLogic PLE model (`.alp`)
   - `Demographic System Model.alp`
 
